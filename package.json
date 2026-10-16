@@ -1,0 +1,13 @@
+{
+  "name": "apex-engine-backend",
+  "version": "4.0.0",
+  "description": "Apex Standalone Fortnite Private Server Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
